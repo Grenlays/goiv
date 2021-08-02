@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  min-width: 960px;
+  font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+  font-size: 16px;
+  line-height: 32px;
+  color: #222222;
+  background-color: white;
+  background-image: url("img/hero-bg.jpg");
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+figure img {
+  border-radius: 3%;
+}
+.page-header{
+  margin-right: 76%;
+  margin-left: 4%;
+}
+.page-header .name{
+  border: 2px solid rgba(128, 128, 128, 0.603);
+  border-radius: 10px;
+  background-color: rgba(245, 245, 245, 0.808);
+  padding: 4% 0% 4%;
+  margin-left: 5%;
+  font-family: 'Jost', sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+}
+.relevance{
+  margin-left: 5%
+}
+.hookah-name{
+  font-family: 'Jost', sans-serif;
+  margin-left: 5%;
+}
+.shop{
+  border: 2px solid rgba(128, 128, 128, 0.603);
+  border-radius: 10px;
+  background-color: rgba(245, 245, 245, 0.808);
+  margin-right: 19%;
+  margin-left: 5%;
+  margin-bottom: 1%;
+}
+.shop p {
+  margin-left: 5%;
+}
